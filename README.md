@@ -26,3 +26,9 @@ to put all of your stuff on Github. Make sure you are working in the right folde
 |`rm _` |remove `_`|
 |`[tab]`|autocomplete the directory/filename|
 |`[up arrow]`|used to navigate through previous commands so you don't have to retype them|
+
+# Schedule
+
+|Date|Task|Resource|Assignment|
+|----|----|--------|----------|
+|idk|learn Python|[A Practical Introduction to Python Programming](https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf)|Chapters 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 19, 20, 21, 22, 23, 24, 25, all exercises|
