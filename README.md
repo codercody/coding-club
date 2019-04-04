@@ -1,4 +1,4 @@
-# How to use git
+# How to use git/Terminal command line
 
 Github is a website used to store all your files. It's basically like dropbox. To start, do the following command from the Terminal command line:
 
@@ -25,3 +25,4 @@ to put all of your stuff on Github. Make sure you are working in the right folde
 |`mkdir _`|make new directory `_`|
 |`rm _` |remove `_`|
 |`[tab]`|autocomplete the directory/filename|
+|`[up arrow]`|used to navigate through previous commands so you don't have to retype them|
