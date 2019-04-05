@@ -35,6 +35,8 @@ to put all of your stuff on Github. Make sure you are working in the right folde
 |idk|learn basic data structures and algorithms|All handouts in 15122 folder, all exercises|
 |idk|learn the math behind computer science|All of 15251 notes, all exercises|
 |idk|learn advanced algorithms|Algorithms: Chatpers 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 15 (very important), 16, 17, 21, 22, 23, 24, 25, 26, 29, 33 (optional), 34, 35, Appendices C, D, all exercises|
+|idk|[leetcode.com](https://leetcode.com)|try to solve 200 problems|
+|idk|learn computer systems|Computer Systems: A Programmer's Perspective, just buy this book and read through it at your leisure|
 
 Here's a brief description of the content of each of the resources I have:
 
