@@ -34,6 +34,7 @@ to put all of your stuff on Github. Make sure you are working in the right folde
 |idk|learn Python|A Practical Introduction to Python Programming: Chapters 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 19, 20, 21, 22, 23, 24, 25, all exercises|
 |idk|learn basic data structures and algorithms|All handouts in 15122 folder, all exercises|
 |idk|learn the math behind computer science|All of 15251 notes, all exercises|
+|idk|learn advanced algorithms|Algorithms: Chatpers 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 15 (very important), 16, 17, 21, 22, 23, 24, 25, 26, 29, 33 (optional), 34, 35, Appendices C, D, all exercises|
 
 Here's a brief description of the content of each of the resources I have:
 
@@ -42,3 +43,4 @@ Here's a brief description of the content of each of the resources I have:
 |A Practical Introduction to Python Programming|getting started with Python, `for` loops, `if` statements, strings, lists, `while` loops, dictionaries, functions|
 |15122|programming concepts, ints, arrays, searching/sorting algorithms, stacks/queues, linked lists, hash tables, binary search trees, BFS/DFS|
 |15251|DFA's, Turing Machines, countable/uncountable sets, big O/Omega/Theta, graph algorithms, polynomial time reductions, P vs. NP, approximation algos, probability theory, randomized algorithms|
+|Algorithms||
