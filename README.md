@@ -43,4 +43,4 @@ Here's a brief description of the content of each of the resources I have:
 |A Practical Introduction to Python Programming|getting started with Python, `for` loops, `if` statements, strings, lists, `while` loops, dictionaries, functions|
 |15122|programming concepts, ints, arrays, searching/sorting algorithms, stacks/queues, linked lists, hash tables, binary search trees, BFS/DFS|
 |15251|DFA's, Turing Machines, countable/uncountable sets, big O/Omega/Theta, graph algorithms, polynomial time reductions, P vs. NP, approximation algos, probability theory, randomized algorithms|
-|Algorithms||
+|Algorithms|big O/Omega/Theta, sorting/searching, stacks/queues, linked lists, hash tables, BSTs, dynamic programming, amortized analysis, union-find data structure, graph search algorithms, max flow/min cut, linear programming, probability, matrices|
